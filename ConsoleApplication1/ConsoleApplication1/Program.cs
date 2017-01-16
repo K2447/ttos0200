@@ -25,7 +25,7 @@ namespace HT1
             int pisteet = summa - annetutpisteet.Min() - annetutpisteet.Max();
             Console.WriteLine("yhteis pisteet on: " + pisteet);
             Console.ReadLine();
-            Console.ReadLine();
+          
         }
     }
 }
